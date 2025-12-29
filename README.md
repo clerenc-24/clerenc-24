@@ -1,6 +1,6 @@
 # Hi, I'm Clerence Mashile 👋
 
-***Data Science & Computer Science Graduate Student | Analytics | SQL | Python | Optimization***
+***Data Science & Computer Science Student | Analytics | SQL | Python | Optimization***
 
 Currently based in Budapest, Hungary and pursuing a Master’s degree in Computer Science at **Eötvös Loránd University**, I am passionate about using data to solve real-world problems and drive better decision-making. My work spans data cleaning and preprocessing, exploratory data analysis, statistical modeling, automation, reporting, and performance optimization.
 
