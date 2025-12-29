@@ -8,6 +8,7 @@ Currently based in Budapest, Hungary and pursuing a Master’s degree in Compute
 
 ## 🧠 About Me
 - 🎓 MSc Computer Science student at Eötvös Loránd University (ELTE)
+- 🎓 Hold a BSc Pure & Applied Mathematics from Budapesti Műszaki és Gazdaságtudományi Egyetem (BME)
 - 📊 Experienced in data analysis, SQL querying, and Python-based automation
 - 📈 Interested in performance marketing analytics, machine learning, and reporting pipelines
 - 🌍 Previously worked as:
@@ -22,7 +23,7 @@ Currently based in Budapest, Hungary and pursuing a Master’s degree in Compute
 ## 🛠 Skills & Tools
 **Programming & Data**
 - Python (Pandas, NumPy, Scikit-Learn)
-- SQL (PostgreSQL, MySQL)
+- SQL (MS SQL Server, MySQL)
 - Jupyter Notebook
 - Excel / Power Query
 
